@@ -1,0 +1,28 @@
+header{
+    height: 60vh !important;
+}
+
+div#serv img{
+    width: 20% !important;
+    aspect-ratio: 12/1 !important;
+}
+
+.h3-font{
+    font-size: 1.3em !important;
+    width: 15ch;
+}
+
+div#our-services{
+    display: flex !important;
+    justify-content: center;
+}
+
+footer div#main-services{
+    background-color: white;
+    box-shadow: 2px 2px 4px black;
+    /* aspect-ratio: 1/1; */
+}
+
+h2.h2-sizing{
+    font-size: 1.3em;
+}
